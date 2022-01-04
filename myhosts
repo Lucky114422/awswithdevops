@@ -2,3 +2,8 @@
 172.31.5.128
 172.31.16.150 
 172.31.23.222
+
+
+[mywebservers:var]
+mywebserverpackforubuntu=apache2
+mywebserverpackforredhat=httpd
